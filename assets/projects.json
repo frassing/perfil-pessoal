@@ -1,0 +1,32 @@
+{"projetos":[
+	{
+		"id": 0,
+		"title": "Alura Geek Challenge",
+		"description": "A página AluraGeek funciona como uma admin page de um e-commerce. Permite listar, pesquisar, adicionar e remover produtos da lista.",
+		"topics": ["JavaScript","HTML5", "CSS3"],
+		"repo": "https://github.com/frassing/alura-geek-challenge",
+		"deploy": "https://frassing.github.io/alura-geek-challenge/",
+		"thumb": "./assets/images/projects/alura-geek.png",
+		"alt": "Print tela inicial do projeto Alura Geek Challenge"
+	},
+	{
+		"id": 1,
+		"title": "ToDo List",
+		"description": "Gerenciador de tarefas que permite adicionar, remover e concluir tarefas.",
+		"topics": ["JavaScript","HTML5", "CSS3"],
+		"repo": "https://github.com/frassing/todoList",
+		"deploy": "https://frassing.github.io/todoList/",
+		"thumb": "./assets/images/projects/todoList.png",
+		"alt": "Print tela inicial do projeto Gerenciador de Tarefas"
+	},
+	{
+		"id": 2,
+		"title": "Mulheres em STEM",
+		"description": "Single page sobre a ODS 5 - Igualdade de Gênero com foco na presença de mulheres em áreas científicas, tecnológicas e exatas",
+		"topics": ["HTML5", "CSS3"],
+		"repo": "https://github.com/frassing/ods5-mulheres-stem",
+		"deploy": "https://frassing.github.io/ods5-mulheres-stem/",
+		"thumb": "./assets/images/projects/ods5.png",
+		"alt": "Print da tela inicial da página Mulheres em STEM"
+	}
+]}
